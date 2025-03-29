@@ -1,4 +1,4 @@
-```markdown
+
 # Movie Explorer App
 
 ## Overview
@@ -54,13 +54,13 @@ The **Movie Explorer App** is a React Native application designed to help users 
 ## How to Run
 1. Clone the repository.
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+
+   `npm install`
+
 3. Start the development server:
-   ```bash
-   npm run start
-   ```
+
+   `npm run start`
+
 4. Run the app on your desired platform:
    - Android: `npm run android`
    - iOS: `npm run ios`
@@ -83,4 +83,3 @@ The **Movie Explorer App** is a React Native application designed to help users 
 
 ## License
 This project is licensed under the MIT License.
-```
